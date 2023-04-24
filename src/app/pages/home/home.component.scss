@@ -1,0 +1,7 @@
+.articles-container {
+  width: 80%;
+  margin: 2rem auto;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+}
